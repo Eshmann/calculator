@@ -1,0 +1,9 @@
+*{
+    margin:0;
+}
+.button{
+    width:50;
+    heigh:50;
+    font-size:25;
+    margin:2;
+}
